@@ -14,7 +14,7 @@ const i18n = {
     brand: 'Manar Hamdan',
     nav_home: 'Home', nav_about: 'About', nav_skills: 'Skills', nav_projects: 'Projects', nav_contact: 'Contact',
     hero_name: 'Manar Hamdan',
-    hero_role: 'Cyber Security Graduate',
+    hero_role: 'Cyber Security ',
     hero_summary: 'Hands-on experience in penetration testing, digital forensics, network security and IoT protocol analysis. Recently completed an ISO 27001 internship at the Ministry of Digital Economy and Entrepreneurship.',
     btn_projects: 'View projects',
     btn_cv: 'Download CV',
